@@ -7,6 +7,6 @@ dbt_custom:
       user: postgres
       pass: postgres
       port: 5432
-      dbname: myihx
-      schema: emis
+      dbname: demo
+      schema: public
       threads: 2
