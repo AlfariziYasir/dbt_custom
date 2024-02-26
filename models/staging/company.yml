@@ -1,7 +1,7 @@
 version: 2
 
 sources:
-  - name: company # this is the source_name
+  - name: emis # this is the source_name
     database: myihx
     # schema: emis
     tables:

@@ -1,3 +1,3 @@
 select
    *
-from {{ source('company', 'accounts') }}
+from {{ source('emis', 'accounts') }}
