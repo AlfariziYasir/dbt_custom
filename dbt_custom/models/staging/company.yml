@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: company # this is the source_name
+    database: myihx
+    schema: emis
+    tables:
+      - name: accounts # this is the table_name
+       
+  # - name: production
+  #   database: demo
+  #   tables:
+  #    - name: companies
