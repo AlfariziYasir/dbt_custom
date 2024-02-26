@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: company # this is the source_name
     database: myihx
-    schema: emis
+    # schema: emis
     tables:
       - name: accounts # this is the table_name
        
