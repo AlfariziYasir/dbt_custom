@@ -1,0 +1,12 @@
+dbt_custom:
+  outputs:
+    dev:
+      dbname: myihx
+      host: localhost
+      pass: postgres
+      port: 5432
+      schema: emis
+      threads: 2
+      type: postgres
+      user: postgres
+  target: dev
