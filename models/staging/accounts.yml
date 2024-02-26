@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: emis # this is the source_name
-    database: emis
+    #database: emis
     # schema: emis
     tables:
       - name: accounts # this is the table_name
